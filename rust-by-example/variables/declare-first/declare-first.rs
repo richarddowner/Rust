@@ -13,7 +13,8 @@ fn main() {
 	println!("a variable: {}", a_var);
 
 	let another_var;
-	// This line will not cause an error,
+	
+	// This line will cause an error,
 	// vars can be declared first and init later,
 	// however they must be init to be called.
 	// println!("another var: {}", another_var);
