@@ -1,3 +1,4 @@
+```
 $ tree .
 .
 |-- my
@@ -5,3 +6,4 @@ $ tree .
 |   |-- mod.rs
 |   `-- nested.rs
 `-- split.rs
+```
