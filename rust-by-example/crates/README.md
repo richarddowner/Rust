@@ -1,4 +1,4 @@
-**Crates**
+#Crates
 A crate is a compilation unit in Rust. Whenever `rustc some_file.rs` is called, `some_file.rs` is 
 treated as the crate file. If `some_file.rs` has `mod` declarations in it, then the contents of the
 modules files will get merged with the crate file before running the compiler over it. In other words,
